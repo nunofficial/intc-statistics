@@ -1,0 +1,284 @@
+{
+  "college_info": {
+    "name": "IITC — IT College Almaty",
+    "instagram": "https://www.instagram.com/it_college_almaty/",
+    "gis2": "https://2gis.kz/almaty/firm/70000001040563276",
+    "followers": 4821,
+    "posts_count": 312,
+    "rating_2gis": 4.3,
+    "reviews_count_2gis": 187
+  },
+
+  "instagram": {
+    "followers_history": [
+      {"month": "Окт 2024", "count": 3900},
+      {"month": "Ноя 2024", "count": 4100},
+      {"month": "Дек 2024", "count": 4250},
+      {"month": "Янв 2025", "count": 4380},
+      {"month": "Фев 2025", "count": 4520},
+      {"month": "Мар 2025", "count": 4650},
+      {"month": "Апр 2025", "count": 4821}
+    ],
+    "engagement_rate": 3.8,
+    "avg_likes": 182,
+    "avg_comments": 14,
+    "avg_saves": 47,
+    "top_posts": [
+      {
+        "id": 1,
+        "description": "День открытых дверей IITC 2025 🎓",
+        "likes": 621,
+        "comments": 58,
+        "saves": 134,
+        "reach": 8400,
+        "date": "15 Мар 2025",
+        "type": "Карусель",
+        "sentiment": "positive"
+      },
+      {
+        "id": 2,
+        "description": "Выпускники IITC — куда устроились? 💼",
+        "likes": 543,
+        "comments": 91,
+        "saves": 212,
+        "reach": 7200,
+        "date": "02 Фев 2025",
+        "type": "Reels",
+        "sentiment": "positive"
+      },
+      {
+        "id": 3,
+        "description": "Хакатон внутри колледжа — результаты 🏆",
+        "likes": 487,
+        "comments": 43,
+        "saves": 98,
+        "reach": 6100,
+        "date": "20 Янв 2025",
+        "type": "Карусель",
+        "sentiment": "positive"
+      },
+      {
+        "id": 4,
+        "description": "Новое оборудование в лаборатории",
+        "likes": 312,
+        "comments": 22,
+        "saves": 61,
+        "reach": 4300,
+        "date": "10 Дек 2024",
+        "type": "Фото",
+        "sentiment": "positive"
+      },
+      {
+        "id": 5,
+        "description": "Расписание изменилось — уведомление",
+        "likes": 89,
+        "comments": 47,
+        "saves": 11,
+        "reach": 3100,
+        "date": "05 Ноя 2024",
+        "type": "Сторис",
+        "sentiment": "neutral"
+      }
+    ],
+    "content_types": {
+      "Reels": 38,
+      "Карусель": 31,
+      "Фото": 22,
+      "Сторис": 9
+    },
+    "posting_frequency": {
+      "Пн": 3, "Вт": 5, "Ср": 4, "Чт": 6, "Пт": 7, "Сб": 4, "Вс": 2
+    },
+    "sentiment": {
+      "positive": 62,
+      "neutral": 24,
+      "negative": 14
+    },
+    "comments_samples": {
+      "positive": [
+        "Лучший колледж Алматы, поступил — не пожалел! 🔥",
+        "Преподаватели реально помогают и объясняют",
+        "Устроился в IT компанию ещё на 3 курсе благодаря IITC",
+        "Крутые проекты делаем, уже есть портфолио",
+        "Атмосфера мотивирует учиться, всем советую"
+      ],
+      "negative": [
+        "Интернет в аудиториях очень медленный 😕",
+        "Слишком мало парковочных мест",
+        "Хотелось бы больше практики с реальными проектами",
+        "Иногда расписание меняется без предупреждения"
+      ],
+      "neutral": [
+        "Когда следующий день открытых дверей?",
+        "Есть ли вечернее обучение?",
+        "Какие специальности открыты на 2025 год?"
+      ]
+    }
+  },
+
+  "gis2": {
+    "rating": 4.3,
+    "total_reviews": 187,
+    "rating_distribution": {
+      "5": 89,
+      "4": 51,
+      "3": 24,
+      "2": 14,
+      "1": 9
+    },
+    "sentiment": {
+      "positive": 74,
+      "neutral": 15,
+      "negative": 11
+    },
+    "reviews_by_month": [
+      {"month": "Окт 2024", "count": 18, "avg_rating": 4.1},
+      {"month": "Ноя 2024", "count": 22, "avg_rating": 4.2},
+      {"month": "Дек 2024", "count": 15, "avg_rating": 4.0},
+      {"month": "Янв 2025", "count": 28, "avg_rating": 4.3},
+      {"month": "Фев 2025", "count": 31, "avg_rating": 4.4},
+      {"month": "Мар 2025", "count": 35, "avg_rating": 4.5},
+      {"month": "Апр 2025", "count": 38, "avg_rating": 4.6}
+    ],
+    "top_tags": {
+      "Хорошие преподаватели": 68,
+      "Современное оборудование": 54,
+      "Практика": 49,
+      "Трудоустройство": 43,
+      "Расположение": 38,
+      "Цена/качество": 35,
+      "Организация": 21,
+      "Интернет": 12
+    },
+    "reviews_samples": {
+      "positive": [
+        {"text": "Очень доволен обучением, много практики и реальных проектов. Преподаватели — практикующие специалисты.", "rating": 5, "date": "Апр 2025"},
+        {"text": "Поступил год назад, уже работаю джуниором. IITC реально даёт знания.", "rating": 5, "date": "Мар 2025"},
+        {"text": "Хорошая атмосфера, дружный коллектив студентов. Рекомендую всем кто хочет в IT.", "rating": 4, "date": "Фев 2025"}
+      ],
+      "negative": [
+        {"text": "Wifi работает плохо, особенно на верхних этажах. Надеюсь исправят.", "rating": 2, "date": "Мар 2025"},
+        {"text": "Некоторые предметы устарели, хотелось бы обновить учебную программу.", "rating": 3, "date": "Янв 2025"}
+      ]
+    }
+  },
+
+  "competitors": [
+    {
+      "name": "IITC",
+      "short": "IITC",
+      "instagram_followers": 4821,
+      "instagram_engagement": 3.8,
+      "instagram_posts": 312,
+      "rating_2gis": 4.3,
+      "reviews_2gis": 187,
+      "color": "#6366f1"
+    },
+    {
+      "name": "Kolesa Group Academy",
+      "short": "Kolesa",
+      "instagram_followers": 6200,
+      "instagram_engagement": 2.9,
+      "instagram_posts": 280,
+      "rating_2gis": 4.5,
+      "reviews_2gis": 143,
+      "color": "#f59e0b"
+    },
+    {
+      "name": "Beeline Digital School",
+      "short": "Beeline DS",
+      "instagram_followers": 8900,
+      "instagram_engagement": 2.1,
+      "instagram_posts": 410,
+      "rating_2gis": 4.1,
+      "reviews_2gis": 98,
+      "color": "#10b981"
+    },
+    {
+      "name": "Ala-Too IT College",
+      "short": "Ala-Too",
+      "instagram_followers": 2300,
+      "instagram_engagement": 1.8,
+      "instagram_posts": 195,
+      "rating_2gis": 3.9,
+      "reviews_2gis": 112,
+      "color": "#ef4444"
+    },
+    {
+      "name": "QazCode Academy",
+      "short": "QazCode",
+      "instagram_followers": 3100,
+      "instagram_engagement": 3.1,
+      "instagram_posts": 240,
+      "rating_2gis": 4.2,
+      "reviews_2gis": 76,
+      "color": "#8b5cf6"
+    }
+  ],
+
+  "recommendations": [
+    {
+      "platform": "Instagram",
+      "priority": "high",
+      "category": "Контент",
+      "title": "Увеличить долю Reels",
+      "description": "Reels набирают в среднем на 47% больше охвата. Рекомендуется поднять частоту Reels до 50% от всего контента.",
+      "impact": "+35% охват",
+      "effort": "Средний"
+    },
+    {
+      "platform": "Instagram",
+      "priority": "high",
+      "category": "Вовлечённость",
+      "title": "Stories с опросами и вопросами",
+      "description": "Интерактивные Stories с викторинами, опросами и слайдерами повышают вовлечённость аудитории на 60%.",
+      "impact": "+60% ER",
+      "effort": "Низкий"
+    },
+    {
+      "platform": "Instagram",
+      "priority": "medium",
+      "category": "Публикации",
+      "title": "Публиковать истории успеха выпускников",
+      "description": "Посты с кейсами трудоустройства выпускников вызывают наибольший резонанс. Делать серию 1 раз в 2 недели.",
+      "impact": "+45% сохранения",
+      "effort": "Средний"
+    },
+    {
+      "platform": "Instagram",
+      "priority": "medium",
+      "category": "Хэштеги",
+      "title": "Оптимизировать хэштег-стратегию",
+      "description": "Использовать 15-20 тематических хэштегов: #ITколледж #Алматы #программирование #обучениеIT",
+      "impact": "+25% открытие",
+      "effort": "Низкий"
+    },
+    {
+      "platform": "2GIS",
+      "priority": "high",
+      "category": "Отзывы",
+      "title": "Программа мотивации отзывов",
+      "description": "Просить студентов оставить отзыв после зачисления и успешной сессии. Цель: +50 отзывов за квартал.",
+      "impact": "+27% доверие",
+      "effort": "Низкий"
+    },
+    {
+      "platform": "2GIS",
+      "priority": "high",
+      "category": "Профиль",
+      "title": "Обновить фотографии и описание",
+      "description": "Добавить актуальные фото аудиторий, лабораторий и мероприятий. Обновить часы работы и контакты.",
+      "impact": "+15% просмотры",
+      "effort": "Низкий"
+    },
+    {
+      "platform": "2GIS",
+      "priority": "medium",
+      "category": "Обратная связь",
+      "title": "Отвечать на все отзывы",
+      "description": "Настроить процесс ответа на отзывы в течение 24 часов. Особенно важно для негативных — благодарить и предлагать решение.",
+      "impact": "+20% рейтинг",
+      "effort": "Средний"
+    }
+  ]
+}
